@@ -24,4 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.admin.data", appContext.getPackageName());
 
     }
+
 }
