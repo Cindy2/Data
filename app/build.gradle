@@ -9,6 +9,7 @@ android {
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
+        testApplicationId "com.example.admin.data.test.TestCase"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
